@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TodoTask</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="login_btn">Login</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_your_password_to_register">Enter your password to Register</string>
+    <string name="enter_your_mail_to_register">Enter your mail to Register</string>
+    <string name="register_btn">Register</string>
+    <string name="enter_your_task">Enter your Task</string>
+    <string name="add_task">Add task</string>
+</resources>

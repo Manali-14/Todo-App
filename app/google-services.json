@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "391003024332",
+    "project_id": "todotask-a970e",
+    "storage_bucket": "todotask-a970e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391003024332:android:794ac36878775c739f8b69",
+        "android_client_info": {
+          "package_name": "co.in.nextgencoder.todotask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391003024332-uffjs7fhni921r5fs6f5gcg206r7e2gd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXf94WvrKswUl-hDcX3_MrBWLAu1blSts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391003024332-uffjs7fhni921r5fs6f5gcg206r7e2gd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
